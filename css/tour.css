@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
+.background-image{
+    width: 1450px;
+    height: 700px;
+    background-image:url(../img/f26a.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.conta{
+    width: 400px;
+    height: 500px;
+    border: 1px solid #000;
+    padding: 50px;
+    margin: 50px 50px;
+    background-color: rgba(255, 255, 255, 0.9);
+}
